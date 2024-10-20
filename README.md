@@ -1,4 +1,4 @@
-# lisp-rs
+# lisp-kt
 
 A simple Lisp interpreter/library in Koltin. Based upon the the book "LISP Interpreter in Rust" by Vishal Patil
 
